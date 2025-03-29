@@ -56,7 +56,7 @@ body{
 }
 
 .icon img{
-    width: 100%;
+    width: 22px;
 }
 
  .text span{
@@ -83,13 +83,13 @@ body{
     margin: 15px 10px;
 }
 
-.right h1{
+.right>h1{
     color: white;
     font-size: 16px;
     margin: 15px 10px;
 }
 
-.right h2{
+.right>h2{
     font-size: 12px;
     width: 133px;
     color: gray;
@@ -100,7 +100,11 @@ body{
     color: white;
     font-size: 10px;
     font-family: sans-serif;
+    text-align: center;
+}
 
+.cart i{
+    font-size: x-large;
 }
 
 #one{
